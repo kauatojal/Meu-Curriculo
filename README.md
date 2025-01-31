@@ -12,10 +12,10 @@ Este projeto é um currículo interativo desenvolvido utilizando HTML, CSS e Jav
 
 ## Estrutura do Projeto
 
-index.html - Página principal do currículo.
-assets/css/style.css - Arquivo de estilos para a formatação visual.
-assets/favicon/ - Ícones de favoritos para diferentes dispositivos.
-assets/favicon_io/ - Conjunto adicional de favicons.
+* index.html - Página principal do currículo.
+* assets/css/style.css - Arquivo de estilos para a formatação visual.
+* assets/favicon/ - Ícones de favoritos para diferentes dispositivos.
+* assets/favicon_io/ - Conjunto adicional de favicons.
 
 ## Tecnologias Utilizadas
 
